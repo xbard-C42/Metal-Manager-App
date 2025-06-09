@@ -1,0 +1,6 @@
+requests>=2.0
+schedule>=1.1
+filelock>=3.0
+pandas>=1.0
+folium>=0.12
+pyscard>=2.0

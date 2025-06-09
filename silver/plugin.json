@@ -1,0 +1,7 @@
+{
+  "name": "Gold Add-On",
+  "symbol": "XAU",
+  "version": "1.0",
+  "price_usd": 10.00,
+  "enabled": false
+}

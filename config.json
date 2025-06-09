@@ -1,0 +1,5 @@
+{
+  "pin_salt": "<hex>",
+  "pin_hash": "<hex>",
+  "api_key": "<your_api_key>"
+}
