@@ -8,7 +8,7 @@ A portable Python application for managing copper (and optionally silver/gold) h
 - Clean Tkinter GUI
 - Portable WinPython and PyInstaller packaging for USB deployment
 
-![((https://github.com/xbard-C42/Metal-Manager-App/blob/main/Copper%20Manager%20App.jpg))]
+![Project Banner](./(https://github.com/xbard-C42/Metal-Manager-App/blob/main/Copper%20Manager%20App.jpg))
 
 ## Features
 1. **Secure Authentication**: PIN hashed with PBKDF2, stored on SIM or local `config.json`.
